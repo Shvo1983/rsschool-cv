@@ -2,20 +2,14 @@
 2. +79161557347 shvo1983@gmail.com 
 3. I am 38 years old. For me, the main priority was the desire to master long-unused programming skills. I started with BASIC and Pascal. Now I yearn to master new horizons
 4. As such, there are no skills at the moment, but there is understanding and desire
-5.<h3 align="center"><strong><span style="color:#006400;">Cтяжка каб. (хомут) Spec-Kon, ПА 66, натуральный, 3.6х200мм, SKT200-180-100ABB </span></strong></h3>
-
+5. <h3 align="center"><strong><span style="color:#006400;">Cтяжка каб. (хомут) Spec-Kon, ПА 66, натуральный, 3.6х200мм, SKT200-180-100ABB </span></strong></h3>
 <p><font color="#006400"><b>Назначение и область применения.</b></font></p>
-
 <p>Кабельная стяжка, натуральный полиамид (нейлон 6,6) для температур до 85 градусов Цельсия (185 F), длина 200 мм (7,87 дюйма), ширина 3,6 мм (0,142 дюйма), толщина 1,2 мм (0,047 дюйма), номинальная прочность на разрыв 180 ньютонов (40 фунтов)</p>
-
 <p>ООО "Кодесс" является официальным дистрибьютором ABB в Москве и Московской области, на складе в г. Королев поддерживается постоянное наличие.<br />
 ~</p>
-
 <p><font color="#006400"><strong>Технические характеристики </strong></font></p>
-
 <p>~<br />
 Основные технические характеристики Cтяжка каб. (хомут) Spec-Kon, ПА 66, натуральный, 3.6х200мм, SKT200-180-100 ABB указаны в таблице.</p>
-
 <table align="center" border="1" cellpadding="0" cellspacing="1">
 	<tbody>
 		<tr>
@@ -110,7 +104,6 @@
 		</tr>
 	</tbody>
 </table>
-
 <div style="clear: both; text-align: center;">Таблица 1. Технические характеристики Cтяжка каб. (хомут) Spec-Kon, ПА 66, натуральный, 3.6х200мм, SKT200-180-100 ABB.</div>
 6. No work experience
 7. higher education, management
