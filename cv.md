@@ -105,6 +105,7 @@
 	</tbody>
 </table>
 <div style="clear: both; text-align: center;">Таблица 1. Технические характеристики Cтяжка каб. (хомут) Spec-Kon, ПА 66, натуральный, 3.6х200мм, SKT200-180-100 ABB.</div>
+
 6. No work experience
-7. higher education, management
+7. Higher education, management
 8. B1 Intermediate 
